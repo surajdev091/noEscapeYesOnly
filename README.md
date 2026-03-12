@@ -1,0 +1,2 @@
+# noEscapeYesOnly
+yesforever
